@@ -13,7 +13,7 @@
 
 ## 🌐 Quick Links
   
-[🧵 GitHub Discussions](https://github.com/firstethicalai/assets/ai_foundations/discussions) •  
+[🧵 GitHub Discussions](https://github.com/firstethicalai/assets/first_ethicalai/discussions) •  
 [💬 Join Our Community](https://firstethicalai.slack.com) •  
 [📝 How to Contribute](CONTRIBUTING.md) •  
 [📄 Code of Conduct](CODE_OF_CONDUCT.md)
@@ -28,21 +28,7 @@ We believe in open knowledge, collaborative writing, and inclusive practices.
 Everyone is welcome to contribute — whether it's writing, editing or reviewing.
 
 ---
-## 📚 AI Foundations
 
-We are building an open-source collection of frameworks, principles, and resources for ethical and responsible AI development.
-Firstly, we are starting with some foundational aspects which will set the scene for our ongoing work.
-
-Explore the key documents:
-
-- [AI Purpose, Goals & Objectives](ai_purpose_goals_objectives.md)
-- [AI Principles](ai_principles.md)
-- [AI Lifecycle](ai_lifecycle.md)
-- [AI Terminology](ai_terminology.md)
-- [AI Standards and Guidelines](key_references.md)
-- [AI Publications](key_publications.md)
-  
-_Our project welcomes international contributions, while initially starting with a focus on the UK context._
 
 ## 🛠️ Project Structure
 
@@ -54,11 +40,5 @@ AI_Foundations/
 ├── AboutFeAI.md
 ├── contributing.md
 ├── code_of_conduct.md
-├── ai_purpose_goals_objectives.md
-├── ai_principles.md
-├── feai_5D_ai_lifecycle.md
-├── ai_terminology.md
-├── Key_references.md
-├── key_publications.md
 ├── assets/ (for images, diagrams, tables etc)
 
