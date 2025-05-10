@@ -1,0 +1,27 @@
+{
+  "projectName": "AI_Foundations",
+  "projectOwner": "firstethicalai",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "contributors.md"
+  ],
+  "imageSize": 80,
+  "commit": true,
+  "contributorsPerLine": 5,
+  "skipCi": true,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/contributors-<%= contributors.length %>-8A2BE2.svg?style=flat-square)](#contributors)",
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "MonsoonEspana",
+      "name": "MonsoonEspana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209016392?v=4",
+      "profile": "https://github.com/MonsoonEspana",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ]
+}
