@@ -40,5 +40,6 @@ AI_Foundations/
 ├── AboutFeAI.md
 ├── contributing.md
 ├── code_of_conduct.md
+├── Healthcare/ (policies, guidelines and tools)
 ├── assets/ (for images, diagrams, tables etc)
 
