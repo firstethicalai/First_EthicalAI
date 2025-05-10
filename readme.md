@@ -13,7 +13,7 @@
 
 ## 🌐 Quick Links
   
-[🧵 GitHub Discussions](https://github.com/firstethicalai/assets/first_ethicalai/discussions) •  
+[🧵 GitHub Discussions](https://github.com/firstethicalai/First_EthicalAI/discussions) •  
 [💬 Join Our Community](https://firstethicalai.slack.com) •  
 [📝 How to Contribute](CONTRIBUTING.md) •  
 [📄 Code of Conduct](CODE_OF_CONDUCT.md)
