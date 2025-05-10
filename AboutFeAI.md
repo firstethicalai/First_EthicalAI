@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repo contains the foundational aspects of FeAI which will govern how future frameworks, policies and tools are developed  
+This repo contains the policies, guidelines and tools for various sectors  
 
 ## Vision and Mission 
 
@@ -17,8 +17,8 @@ We are FeAI an initiative of the team behind HIGOE, a digital solutions company 
 
 ## Roadmap & Milestones
 
-- **Goals:** Develop the foundational aspects of AI that can be shared and developed further with the wider community (Under Review).
-- Move to a healthcare focus, looking at an AI ethics framework and related policies (In Preparation). 
+- **Goals:** Develop the foundational aspects of AI that can be shared and developed further with the wider community.
+- Initially move to a healthcare focus, looking at an AI ethics framework and related policies. 
 - **Outcomes:** A strong foundation from which the FeAI community can collectively solve AI issues in the present and future
 
 ## The Team
