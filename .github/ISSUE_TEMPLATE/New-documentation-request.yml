@@ -1,0 +1,23 @@
+name: "\U0001F4DA New Documentation Request"
+description: Request documentation for a new feature or topic
+title: ":book: [Docs Request] <Feature or Topic Name>"
+labels: ["📖 documentation", "new"]
+body:
+  - type: input
+    id: feature_name
+    attributes:
+      label: "Topic Name"
+      description: "Enter the name of the topic needing documentation."
+      placeholder: "e.g., data security and privacy"
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe the need for documentation"
+      description: "Explain why this documentation is required."
+      placeholder: "e.g., This feature was recently added, but lacks documentation."
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: "Additional Notes"
+      description: "Provide any extra context or references."
+      placeholder: "e.g., Related GitHub issues or external resources."

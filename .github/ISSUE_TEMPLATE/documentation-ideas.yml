@@ -1,0 +1,17 @@
+name: "\U0001F4A1 Documentation Ideas" 
+description: Share ideas for improving documentation
+title: "[Docs Idea] <Short Description>"
+labels: ["documentation", "ideas"]
+body:
+  - type: textarea
+    id: idea_summary
+    attributes:
+      label: "What's your idea?"
+      description: "Describe how this could enhance documentation."
+      placeholder: "e.g., Create a quick-start guide for new contributors."
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: "Additional Notes"
+      description: "Provide any extra context or links."
+      placeholder: "e.g., References, examples, or related issues."

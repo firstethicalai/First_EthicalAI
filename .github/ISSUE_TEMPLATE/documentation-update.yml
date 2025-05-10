@@ -1,0 +1,32 @@
+name: "\U0001F4DD Documentation Update"
+description: Suggest improvements or corrections to existing documentation
+title: "[Docs Update] <Section Name - Brief Summary>"
+labels: ["documentation", "update"]
+body:
+  - type: input
+    id: document_section
+    attributes:
+      label: "Which section needs updating?"
+      description: "Provide the section or document name."
+      placeholder: "e.g., 'References' or 'Installation Guide'"
+
+  - type: textarea
+    id: current_issue
+    attributes:
+      label: "What’s wrong with the current documentation?"
+      description: "Explain any inaccuracies, missing details, or outdated content."
+      placeholder: "e.g., The links are outdated or missing essential steps."
+
+  - type: textarea
+    id: suggested_fix
+    attributes:
+      label: "Suggested Fix"
+      description: "Provide details on what should be changed."
+      placeholder: "e.g., Update references to reflect recent updates. Include new examples."
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: "Additional Notes"
+      description: "Provide any extra context or links to support your request."
+      placeholder: "e.g., Related GitHub issues, external references, or screenshots."
