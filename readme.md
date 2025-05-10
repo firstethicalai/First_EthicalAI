@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/firstethicalai/AI_Foundations/blob/main/assets/FEAIBanner1.png?raw=true" alt="Project Banner" width="100%">
+  <img src="https://github.com/firstethicalai/First_EthicalAI/blob/main/assets/FEAIBanner1.png?raw=true" alt="Project Banner" width="100%">
 </p>
 
 ---
