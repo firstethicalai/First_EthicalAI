@@ -2,6 +2,8 @@
 
 > An open community-driven project for setting the direction of AI.  
 > This initiative has been created to support collaboration, learning, and shared insights.
+## Visit Our Website
+Check out our GitHub Pages site: [Click Here](https://firstethicalai.github.io/First_EthicalAI/)
 
 ---
 
