@@ -279,7 +279,7 @@ is not in the scope of this Code of Conduct.
 
 ### **12.2** If the breach is considered outside the scope of this Code of Conduct
 
-#### **12.2.1** If the reportee is an employee of the Turing 
+#### **12.2.1** If the reportee is an employee of First EthicalAI 
 
 The code of Conduct should be considered a norm-setting mechanism for the First EthicalAI 
 Community Management Team. 
